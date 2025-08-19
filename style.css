@@ -1,7 +1,6 @@
 body{
     background-image:url("https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg");
     background-size: cover;
-    background-repeat: no-repeat;
     margin:0 auto;          
 }
 
@@ -21,4 +20,5 @@ body{
     text-align: center;
     color: rgb(221, 221, 221);
     
+
 }
